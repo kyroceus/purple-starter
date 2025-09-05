@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-purple", "~> 1.0", ">= 1.0.0"
+gem "jekyll-theme-purple", "~> 1.0", ">= 1.0.1"
 
 gem "html-proofer", "~> 5.0", group: :test
 
